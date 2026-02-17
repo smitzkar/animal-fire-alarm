@@ -1,22 +1,21 @@
-# wald_repo-template
-Empty template for structure
+# Welcome to Animal Fire Alarm!  
 
+Prototyp für einen Feueralarm für Tiere in Waldbrandgebieten - Prototype for a fire alarm for animals in wildfire-prone areas
 
-## How to fill it
+by Jabora Speder, July 2025
 
-### general folder structure: 
+## Hardware 
 
-#### Dependent on project:
-docs        = images, videos, build-guide, how-to, extra text or pdf files, etc. 
-hardware    = 3d-print files, schematics, etc. 
-src         = all code and stuff used by code (just use whatever sub-structure you want or what your IDE gave you)
+![circuit diagram](./hardware/image_2_setup.jpg)
 
-#### Required: 
-README.md   = quick overview of the project, include relevant links, if not immediately obvious explain how to read/use the repo (see README-template.md)
-LICENCE     = MIT ? 
+## Documentation (German)
 
-### markdown basics: 
-(no google docs or word or such, please)
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax 
+Presentation slides: [here](docs/Presentation_jabora%20Speder_fire%20alarm.pdf)
 
+Documentation: [here](docs/Documentation_animal%20fire%20alarm_jabora%20speder.pdf)
 
+## Links 
+
+[Our website lifolab](https://www.lifolab.de)
+
+[Fachgebiet Nachrichtenübertragung an der Technischen Universität Berlin](https://www.tu.berlin/nue)
