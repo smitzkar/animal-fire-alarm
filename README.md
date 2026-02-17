@@ -10,9 +10,9 @@ by Jabora Speder, July 2025
 
 ## Documentation (German)
 
-Presentation slides: [here](https://github.com/reallaborwald-team/animal-fire-alarm/docs/Presentation_jabora Speder_fire alarm.pdf)
+Presentation slides: [here](docs/Presentation_jabora%20Speder_fire%20alarm.pdf)
 
-Documentation: [here](./docs/Documentation_animal fire alarm_jabora speder.pdf)
+Documentation: [here](docs/Documentation_animal%20fire%20alarm_jabora%20speder.pdf)
 
 ## Links 
 
